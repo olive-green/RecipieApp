@@ -36,6 +36,12 @@
   color:#fff;
   padding-top: 10px;
 }
+
+@media only screen (max-width:900px){
+  .screen-bar{
+    width:100%;
+  }
+}
 .fa-heart{
   color:red;
 }
